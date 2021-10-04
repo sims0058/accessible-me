@@ -130,3 +130,7 @@ padding: 5px;
   padding: .5em 1em;
   font-weight: bold;
 }
+
+#adressstyle{
+  list-style-type: none;
+}
